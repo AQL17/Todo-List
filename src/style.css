@@ -68,4 +68,7 @@ table {
 .To-do-main{
     grid-column: 2 /3;
 }
+.sidebar{
+    background-color: aqua;
+}
 
